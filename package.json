@@ -1,0 +1,16 @@
+{
+  "name": "upstream",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Upstream: launch a coin on any GitHub repo; creator fees flow to the maintainer.",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@pump-fun/pump-sdk": "4.3.1",
+    "@solana/spl-token": "^0.4.15",
+    "@solana/web3.js": "^1.99.0",
+    "bn.js": "^5.2.5"
+  }
+}
