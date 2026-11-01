@@ -1,1 +1,1 @@
-window.UPSTREAM_CFG={NAME:"Upstream",TICKER:"UPSTREAM",CA:"",CHAIN:"solana",PAD:"pumpfun",PAIR:"",X:"",BUY:"",CHART:"",UPSTREAM_TREASURY:""};
+window.UPSTREAM_CFG={NAME:"Upstream",TICKER:"UPSTREAM",CA:"2SuHFYv1ZapKcu763emuc3N28kdRKKXdseBLPugapump",CHAIN:"solana",PAD:"pumpfun",PAIR:"",X:"https://x.com/upstreampad",BUY:"https://pump.fun/coin/2SuHFYv1ZapKcu763emuc3N28kdRKKXdseBLPugapump",CHART:"https://gmgn.ai/sol/token/2SuHFYv1ZapKcu763emuc3N28kdRKKXdseBLPugapump",UPSTREAM_TREASURY:""};
